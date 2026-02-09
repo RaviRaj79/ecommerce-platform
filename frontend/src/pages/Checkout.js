@@ -132,6 +132,8 @@ const Checkout = () => {
     setCreatedOrder(null);
     setPaymentSessionId("");
   }, [
+    createdOrder,
+    paymentSessionId,
     fullName,
     email,
     addressLine1,
