@@ -83,3 +83,6 @@ npm run build
 ## Notes
 - Cashfree is configured for sandbox by default.
 - For production, update `CASHFREE_ENV=production` and use live keys.
+
+## License
+MIT
